@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Josué. A Junior Web Developer.
+- 👀 I’m interested in learning about JavaScript and React JS.
+- 🌱 I’m currently learning responsive design.
+- 💞️ I’m looking to collaborate on web projects.
